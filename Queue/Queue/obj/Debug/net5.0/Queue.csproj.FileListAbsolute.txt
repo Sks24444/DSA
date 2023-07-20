@@ -1,0 +1,15 @@
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\Queue.exe
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\Queue.deps.json
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\Queue.runtimeconfig.json
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\Queue.runtimeconfig.dev.json
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\Queue.dll
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\ref\Queue.dll
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\bin\Debug\net5.0\Queue.pdb
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.AssemblyInfoInputs.cache
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.AssemblyInfo.cs
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.dll
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\ref\Queue.dll
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.pdb
+C:\Users\shivgautam\shiv-kumar-gautam\GitAssignment\DSA\Queue\Queue\obj\Debug\net5.0\Queue.genruntimeconfig.cache
